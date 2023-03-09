@@ -30,6 +30,9 @@ These instructions will get you a copy of the project up and running on your loc
 
     // BeautifulSoup
     pip install bs4
+
+    // requests
+    pip install requests
     ```
 
 <!-- End with an example of getting some data out of the system or using it for a little demo -->
