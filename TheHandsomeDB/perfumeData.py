@@ -15,11 +15,11 @@ import os
 driver = webdriver.Chrome("../chromedriver_win32")
 
 # txt 만들기 및 쓰기
-currentLoc = 'C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/TheHandsomeDB/PerfumeData/'
+currentLoc = 'C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/TheHandsomeDB/PerfumeData_F/'
 # perfume = open(currentLoc+'perfume.txt', 'w', encoding='utf-8')
 
 # 크롤링 시작
-url = 'https://www.perfumegraphy.com/category/genderless/661/?page=1'
+url = 'https://www.perfumegraphy.com/category/feminine/667/'
 driver.get(url)
 time.sleep(1)
 
