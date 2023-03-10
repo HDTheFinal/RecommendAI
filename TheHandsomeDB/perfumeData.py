@@ -14,7 +14,7 @@ import os
 driver = webdriver.Chrome("../chromedriver_win32")
 
 # txt 만들기 및 쓰기
-currentLoc = 'C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/TheHandsomeDB/PerfumeData'
+currentLoc = 'C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/TheHandsomeDB/PerfumeData/'
 # perfume = open(currentLoc+'perfume.txt', 'w', encoding='utf-8')
 
 # 크롤링 시작
@@ -34,7 +34,7 @@ resultText = open(currentLoc+'perfume_'+CURRENT_CATEGORY+'.txt', 'w', encoding='
 # 현재 카테고리 및 코드
 CURRENT_CODE = CURRENT_CATEGORY[0:1].upper()
 
-for page in range(3):
+for page in range(100):
     print("--", driver.current_url)
     resultText.write(f"--{str(driver.current_url)}\n")
     wait = WebDriverWait(driver, 10)
