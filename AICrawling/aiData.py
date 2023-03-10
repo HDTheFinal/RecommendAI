@@ -28,6 +28,27 @@ elem = driver.find_element(By.NAME, "q")  # 구글 검색창 선택
 elem.send_keys('정장 룩')  # 검색창에 검색할 내용(name)넣기
 elem.send_keys(Keys.RETURN)  # 검색할 내용을 넣고 enter를 치는것!
 
+#
+SCROLL_PAUSE_TIME = 1
+scroll_count = 0
+# Get scroll height
+last_height = driver.execute_script("return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
+
+# NOTE: 스크롤 할 횟수 쓰기 
+while scroll_count > 10:
+    # Scroll down to bottom
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
+    # Wait to load page
+    time.sleep(SCROLL_PAUSE_TIME)
+    # Calculate new scroll height and compare with last scroll height
+    new_height = driver.execute_script("return document.body.scrollHeight")
+    if new_height == last_height:
+        try:
+            driver.find_element_by_css_selector(".mye4qd").click()
+        except:
+            break
+    last_height = new_height
+
 # 작게 뜬 이미지들 모두 선택(elements)
 imgs = driver.find_elements(By.CSS_SELECTOR, ".wXeWr.islib.nfEiy")
 count = 0
@@ -48,5 +69,5 @@ for img in imgs:
     count = count + 1
     print(count)
 
-    if count > 3:  # 다운 받을 이미지 갯수 조정
+    if count > 100000:  # 다운 받을 이미지 갯수 조정
         break
