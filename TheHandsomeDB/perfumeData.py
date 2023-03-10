@@ -111,8 +111,7 @@ for page in range(100):
         resultText.write(
             f"values ('{str(CURRENT_CODE+P_ID)}','{str(P_NAME)}','{str(P_BNAME)}','{str(P_IMAGE1)}','{str(P_IMAGE2)}',{str(P_PRICE)},{str(P_DATE)},'{str(P_LOC)}',{str(P_STOCK)},'{str(CATEGORY_CLARGE)}','{str(CATEGORY_C_MEDIUM)}','{str(P_LABEL)}', NULL)\n\n")
 
-        driver.find_element(By.XPATH, nextpage_btn).send_keys(Keys.ENTER)
-        time.sleep(2)
+    driver.find_element(By.XPATH, nextpage_btn).send_keys(Keys.ENTER)
 
 # 파일 닫기
 resultText.close()
