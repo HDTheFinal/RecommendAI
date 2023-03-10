@@ -1,6 +1,183 @@
-2248
-//www.perfumegraphy.com/web/product/medium/202109/64eef4409f0b796d5b627f3345e084fc.jpg
-//www.perfumegraphy.com/web/product/medium/202109/64eef4409f0b796d5b627f3345e084fc.jpg
-킬리안
-문라이트 인 헤븐 오 드 퍼퓸
-280000
+--https://www.perfumegraphy.com/category/genderless/661/?page=1
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1583','엉빠썽','프레데릭 말','//www.perfumegraphy.com/web/product/medium/202212/fb1d28e0094449dd0aff26438b6166b5.jpg','//www.perfumegraphy.com/web/product/medium/202212/fb1d28e0094449dd0aff26438b6166b5.jpg',225000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2276','바닐라 오 드 퍼퓸','아쿠아 디 파르마','//www.perfumegraphy.com/web/product/medium/202112/14dcf61f13d227e542ffd13f383f0553.jpg','//www.perfumegraphy.com/web/product/medium/202112/14dcf61f13d227e542ffd13f383f0553.jpg',205000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1364','보야지 데르메스 오 드 뚜왈렛','에르메스','//www.perfumegraphy.com/web/product/medium/202108/be2c81713eab2867074ad76267029bd3.jpg','//www.perfumegraphy.com/web/product/medium/202108/be2c81713eab2867074ad76267029bd3.jpg',139000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1800','운 자르뎅 수르 라 라군 오 드 뚜왈렛','에르메스','//www.perfumegraphy.com/web/product/medium/202108/1b2bfdac14b0204ab375af467b5c4e49.jpg','//www.perfumegraphy.com/web/product/medium/202108/1b2bfdac14b0204ab375af467b5c4e49.jpg',90000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1363','떼르 데르메스 오 드 뚜왈렛','에르메스','//www.perfumegraphy.com/web/product/medium/202201/df14462355d87313a52346f108a8e448.jpg','//www.perfumegraphy.com/web/product/medium/202201/df14462355d87313a52346f108a8e448.jpg',90000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1802','떼르 데르메스 오 인텐스 베티버','에르메스','//www.perfumegraphy.com/web/product/medium/202108/c1289f335b813f7b23bc308bf2680511.jpg','//www.perfumegraphy.com/web/product/medium/202108/c1289f335b813f7b23bc308bf2680511.jpg',108000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1373','집시워터 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202211/5bb0b281edaf0f86624435ed3dfa7c72.jpg','//www.perfumegraphy.com/web/product/medium/202211/5bb0b281edaf0f86624435ed3dfa7c72.jpg',209000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F1374','블랑쉬 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202211/4fbad0ab33d015466c1542462b5a6562.jpg','//www.perfumegraphy.com/web/product/medium/202211/4fbad0ab33d015466c1542462b5a6562.jpg',210000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2311','오르페옹 오 드 퍼퓸','딥디크','//www.perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg','//www.perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg',240350,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2629','타임 앤 모스 오 드 퍼퓸','로이비','//www.perfumegraphy.com/web/product/medium/202303/d415f2cfad462c9f634eebf83aaccc00.jpg','//www.perfumegraphy.com/web/product/medium/202303/d415f2cfad462c9f634eebf83aaccc00.jpg',98100,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2628','더 아이즈 오브 더 타이거','구찌 알케미스트 가든','//www.perfumegraphy.com/web/product/medium/202303/d122475987c9ea2d615aeb0fa98e3b5e.jpg','//www.perfumegraphy.com/web/product/medium/202303/d122475987c9ea2d615aeb0fa98e3b5e.jpg',378000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2627','망고 앤 민트 리브 오 드 퍼퓸','로이비','//www.perfumegraphy.com/web/product/medium/202303/22fcf431456fa193826934175272c94d.jpg','//www.perfumegraphy.com/web/product/medium/202303/22fcf431456fa193826934175272c94d.jpg',98100,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2626','티어스 오브 아이리스','구찌 알케미스트 가든','//www.perfumegraphy.com/web/product/medium/202303/cc0514e85f4151f61bb821db12947111.jpg','//www.perfumegraphy.com/web/product/medium/202303/cc0514e85f4151f61bb821db12947111.jpg',378000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2621','오 드 리에 오 드 뚜왈렛','딥디크','//www.perfumegraphy.com/web/product/medium/202302/bc1245a90cff3b24d84def702e4de582.jpg','//www.perfumegraphy.com/web/product/medium/202302/bc1245a90cff3b24d84def702e4de582.jpg',179800,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2612','아쿠아 데시마 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/f19881c955ed43c5feb21d2fb9d85c10.jpg','//www.perfumegraphy.com/web/product/medium/202302/f19881c955ed43c5feb21d2fb9d85c10.jpg',285000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2608','쟈뎅 뒤 포에트 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/0b8c3f0365d1a9f74129e787c9f59a67.jpg','//www.perfumegraphy.com/web/product/medium/202302/0b8c3f0365d1a9f74129e787c9f59a67.jpg',285000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2607','이지 투 러브 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/79100b97817d7b26ed360d34d95acd5f.jpg','//www.perfumegraphy.com/web/product/medium/202302/79100b97817d7b26ed360d34d95acd5f.jpg',285000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2605','재스민 레더 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg','//www.perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg',285000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2602','오디딸리 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/8751e0b6179b1ff693da88fdfaed1669.jpg','//www.perfumegraphy.com/web/product/medium/202302/8751e0b6179b1ff693da88fdfaed1669.jpg',285000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2590','아타카마 오 드 퍼퓸','알타이아','//www.perfumegraphy.com/web/product/medium/202301/93d89b904f4344ee15b2260a939acb4e.jpg','//www.perfumegraphy.com/web/product/medium/202301/93d89b904f4344ee15b2260a939acb4e.jpg',331000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+--https://www.perfumegraphy.com/category/genderless/661/?page=2
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2585','LP01 미스틱 로즈 오 드 퍼퓸 10ml','르페르소나','//www.perfumegraphy.com/web/product/medium/202212/b7c57283b75c2fcf119794e23ddb1539.jpg','//www.perfumegraphy.com/web/product/medium/202212/b7c57283b75c2fcf119794e23ddb1539.jpg',39000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2584','LP02 피콕 페더 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202212/9e0212da04d4c0f42e5ed84f29332417.jpg','//www.perfumegraphy.com/web/product/medium/202212/9e0212da04d4c0f42e5ed84f29332417.jpg',39000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2583','LP03 우든 페이스 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202212/df0815ab50906e23544b5f765d5dffce.jpg','//www.perfumegraphy.com/web/product/medium/202212/df0815ab50906e23544b5f765d5dffce.jpg',39000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2582','LP04 골든 젬 오 드 퍼퓸 10ml','르페르소나','//www.perfumegraphy.com/web/product/medium/202212/b72109a0b84cb3d1ca29b3a310d1ffa2.jpg','//www.perfumegraphy.com/web/product/medium/202212/b72109a0b84cb3d1ca29b3a310d1ffa2.jpg',39000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2581','베티버 앤 골든 바닐라 코롱 인텐스','조말론','//www.perfumegraphy.com/web/product/medium/202212/1556bbef9499463dd193f73179f865be.jpg','//www.perfumegraphy.com/web/product/medium/202212/1556bbef9499463dd193f73179f865be.jpg',184000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2572','오키데 바니유 오 드 퍼퓸','반클리프 앤 아펠','//www.perfumegraphy.com/web/product/medium/202212/64824fbdef35a059295239337faf29bb.jpg','//www.perfumegraphy.com/web/product/medium/202212/64824fbdef35a059295239337faf29bb.jpg',182000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2569','로즈 오 드 퍼퓸','이솝','//www.perfumegraphy.com/web/product/medium/202212/9f0945c1769caf0b09056431b7d5a0c5.jpg','//www.perfumegraphy.com/web/product/medium/202212/9f0945c1769caf0b09056431b7d5a0c5.jpg',175000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2561','휠 오 드 퍼퓸','이솝','//www.perfumegraphy.com/web/product/medium/202211/7fcd48b37d8c9b4ec84f3de10709f23c.jpg','//www.perfumegraphy.com/web/product/medium/202211/7fcd48b37d8c9b4ec84f3de10709f23c.jpg',127000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2560','마라케시 인텐스 오 드 퍼퓸','이솝','//www.perfumegraphy.com/web/product/medium/202211/adc546481e1a6a88fbd8cb77a5e35b09.jpg','//www.perfumegraphy.com/web/product/medium/202211/adc546481e1a6a88fbd8cb77a5e35b09.jpg',137500,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2556','34번가 생제르망 오드뚜왈렛','딥디크','//www.perfumegraphy.com/web/product/medium/202211/df5ed23f841172d29035a49dd83c6e43.jpg','//www.perfumegraphy.com/web/product/medium/202211/df5ed23f841172d29035a49dd83c6e43.jpg',143000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2554','바닐라 블랙베리 오드뚜왈렛','꼼뜨와 수드 파시피크','//www.perfumegraphy.com/web/product/medium/202211/2640748708140cac20b4ea086058f980.jpg','//www.perfumegraphy.com/web/product/medium/202211/2640748708140cac20b4ea086058f980.jpg',74000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2551','비가라드 꽁상뜨레 오 드 퍼퓸','프레데릭 말','//www.perfumegraphy.com/web/product/medium/202212/05434cafeca1442f48d5322f37b7584d.jpg','//www.perfumegraphy.com/web/product/medium/202212/05434cafeca1442f48d5322f37b7584d.jpg',338000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2548','로 드 세비뉴 오 드 퍼퓸','스테파니 브루진','//www.perfumegraphy.com/web/product/medium/202211/55cdcbe790fd2c53ad3a061921246d15.jpg','//www.perfumegraphy.com/web/product/medium/202211/55cdcbe790fd2c53ad3a061921246d15.jpg',225000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2547','플뢰르 드 포르토피노 오드퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202211/bca390b6d340501f1d4625decde26b18.jpg','//www.perfumegraphy.com/web/product/medium/202211/bca390b6d340501f1d4625decde26b18.jpg',295000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2539','바이올렛 앤 앰버 압솔뤼 코롱','조말론','//www.perfumegraphy.com/web/product/medium/202211/641c16e8156a099e72a7da04f108e9d3.jpg','//www.perfumegraphy.com/web/product/medium/202211/641c16e8156a099e72a7da04f108e9d3.jpg',395000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2516','캘리포니아 레브리 오 드 퍼퓸','반클리프 앤 아펠','//www.perfumegraphy.com/web/product/medium/202210/b655316835041b86a8f94f5d325fc065.jpg','//www.perfumegraphy.com/web/product/medium/202210/b655316835041b86a8f94f5d325fc065.jpg',182000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2502','10am 플러트 오 드 퍼퓸 스프레이','키에린 뉴욕','//www.perfumegraphy.com/web/product/medium/202209/47972a0556717cc8bd2548155718ebf2.jpg','//www.perfumegraphy.com/web/product/medium/202209/47972a0556717cc8bd2548155718ebf2.jpg',145000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2499','샹탈 스카이 오 드 퍼퓸 스프레이','키에린 뉴욕','//www.perfumegraphy.com/web/product/medium/202209/070d0fe0f15c2a31d8af27ca3c575d7f.jpg','//www.perfumegraphy.com/web/product/medium/202209/070d0fe0f15c2a31d8af27ca3c575d7f.jpg',54000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2488','솔레이네쥬 오 드 퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202209/6d9e323b278239548714e303b9c54c48.jpg','//www.perfumegraphy.com/web/product/medium/202209/6d9e323b278239548714e303b9c54c48.jpg',290000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2486','베네시안 베르가못 오 드 퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202208/ee60f65e215a05dc2f362074f583563e.jpg','//www.perfumegraphy.com/web/product/medium/202208/ee60f65e215a05dc2f362074f583563e.jpg',295000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+--https://www.perfumegraphy.com/category/genderless/661/?page=3
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2478','LP04 골든 젬 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202208/6bd4a1cc57e2bd0072184a45ca3068b0.jpg','//www.perfumegraphy.com/web/product/medium/202208/6bd4a1cc57e2bd0072184a45ca3068b0.jpg',104000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2477','LP03 우든 페이스 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202208/5a7509cc8c40c3149f45752c2ff12f67.jpg','//www.perfumegraphy.com/web/product/medium/202208/5a7509cc8c40c3149f45752c2ff12f67.jpg',104000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2476','LP02 피콕 페더 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202208/240742facbc5ff26e7afd01469d486ff.jpg','//www.perfumegraphy.com/web/product/medium/202208/240742facbc5ff26e7afd01469d486ff.jpg',104000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2475','LP01 미스틱 로즈 오 드 퍼퓸','르페르소나','//www.perfumegraphy.com/web/product/medium/202208/fd09b99c63321378d5fa0515591981a8.jpg','//www.perfumegraphy.com/web/product/medium/202208/fd09b99c63321378d5fa0515591981a8.jpg',104000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2472','오 파퓨메 오떼블랑 오드 코롱','불가리','//www.perfumegraphy.com/web/product/medium/202208/e20e17a20b8a6feb1185af894ca9873e.jpg','//www.perfumegraphy.com/web/product/medium/202208/e20e17a20b8a6feb1185af894ca9873e.jpg',119000,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2471','운 자르뎅 메디테라네 오 드 뚜왈렛','에르메스','//www.perfumegraphy.com/web/product/medium/202208/07804b972e4a47646aa8aa9e56a5a50c.jpg','//www.perfumegraphy.com/web/product/medium/202208/07804b972e4a47646aa8aa9e56a5a50c.jpg',125000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2459','오 도랑쥬 베르트 오 드 코롱','에르메스','//www.perfumegraphy.com/web/product/medium/202207/8f734a2482a65006e53da3a75a64e0a0.jpg','//www.perfumegraphy.com/web/product/medium/202207/8f734a2482a65006e53da3a75a64e0a0.jpg',105000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2455','뿌르 옴므 오 드 퍼퓸','몽클레르','//www.perfumegraphy.com/web/product/medium/202207/63e033cc709bc8a12a27fcf6b1fc2439.jpg','//www.perfumegraphy.com/web/product/medium/202207/63e033cc709bc8a12a27fcf6b1fc2439.jpg',110000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2450','제라늄 오도라타 오 드 뚜왈렛','딥디크','//www.perfumegraphy.com/web/product/medium/202207/9d7fc9a8262b6a599647d1a5a1b62eca.jpg','//www.perfumegraphy.com/web/product/medium/202207/9d7fc9a8262b6a599647d1a5a1b62eca.jpg',176800,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2447','아쿠아 비떼 오 드 뚜왈렛','메종 프란시스 커정','//www.perfumegraphy.com/web/product/medium/202212/99d79ba59d2df98b696f92aed274afe9.jpg','//www.perfumegraphy.com/web/product/medium/202212/99d79ba59d2df98b696f92aed274afe9.jpg',215000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2430','라자스탄 오 드 퍼퓸','에트로','//www.perfumegraphy.com/web/product/medium/202206/989d152fd78e144ce0404c47503e98d6.jpg','//www.perfumegraphy.com/web/product/medium/202206/989d152fd78e144ce0404c47503e98d6.jpg',118300,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2426','오 트리쁠 베르켄 오렌지 블라썸','불리','//www.perfumegraphy.com/web/product/medium/202208/3ecf342d74f281cf8d2a694110963e17.jpg','//www.perfumegraphy.com/web/product/medium/202208/3ecf342d74f281cf8d2a694110963e17.jpg',170000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2422','로드네롤리 오 드 뚜왈렛','딥디크','//www.perfumegraphy.com/web/product/medium/202206/74ecb8dcfc6e0763b17aad00420d0c2b.jpg','//www.perfumegraphy.com/web/product/medium/202206/74ecb8dcfc6e0763b17aad00420d0c2b.jpg',176800,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2421','로데헤스페리데스 오 드 뚜왈렛','딥디크','//www.perfumegraphy.com/web/product/medium/202205/6c9afa0f7828da5c6ec31d27b6f3f821.jpg','//www.perfumegraphy.com/web/product/medium/202205/6c9afa0f7828da5c6ec31d27b6f3f821.jpg',176800,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2401','베티버느와','SWG컬렉션','//www.perfumegraphy.com/web/product/medium/202205/b440f4c96a45ddd4449fe507c11b42b1.jpg','//www.perfumegraphy.com/web/product/medium/202205/b440f4c96a45ddd4449fe507c11b42b1.jpg',68600,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2399','파인보일','SWG컬렉션','//www.perfumegraphy.com/web/product/medium/202205/5e5f2773c7e7c4a402f3f397069d7996.jpg','//www.perfumegraphy.com/web/product/medium/202205/5e5f2773c7e7c4a402f3f397069d7996.jpg',68600,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2398','오드더티','SWG컬렉션','//www.perfumegraphy.com/web/product/medium/202205/5d92128cbf57ccab1b7acef366b900cb.jpg','//www.perfumegraphy.com/web/product/medium/202205/5d92128cbf57ccab1b7acef366b900cb.jpg',68600,SYSDATE,'더현대대구',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2387','텐테이션 오 드 퍼퓸','아이젠버그','//www.perfumegraphy.com/web/product/medium/202204/3ea549f044d777294703b4e12baf6194.jpg','//www.perfumegraphy.com/web/product/medium/202204/3ea549f044d777294703b4e12baf6194.jpg',131000,SYSDATE,'본점',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2381','오 트리쁠 알 카시르','불리','//www.perfumegraphy.com/web/product/medium/202203/ea842aeaf72e450d80cfdfc95d1bf593.jpg','//www.perfumegraphy.com/web/product/medium/202203/ea842aeaf72e450d80cfdfc95d1bf593.jpg',170000,SYSDATE,'판교',0,'화장품','향수/캔들','female|genderless', NULL)
+
+insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)
+values ('F2362','만다리노 디 아말피 오 드 퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202301/3ba073c184ef316cf2c99b18ff717daa.jpg','//www.perfumegraphy.com/web/product/medium/202301/3ba073c184ef316cf2c99b18ff717daa.jpg',285000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|genderless', NULL)
+
