@@ -32,12 +32,14 @@ elem.send_keys(Keys.RETURN)  # 검색할 내용을 넣고 enter를 치는것!
 SCROLL_PAUSE_TIME = 1
 scroll_count = 0
 # Get scroll height
-last_height = driver.execute_script("return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
+last_height = driver.execute_script(
+    "return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
 
-# NOTE: 스크롤 할 횟수 쓰기 
+# NOTE: 스크롤 할 횟수 쓰기
 while scroll_count > 10:
     # Scroll down to bottom
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
+    driver.execute_script(
+        "window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
     # Wait to load page
     time.sleep(SCROLL_PAUSE_TIME)
     # Calculate new scroll height and compare with last scroll height
@@ -54,20 +56,27 @@ imgs = driver.find_elements(By.CSS_SELECTOR, ".wXeWr.islib.nfEiy")
 count = 0
 
 for img in imgs:
-    img.click()
-    time.sleep(2)
+    try:
+        img.click()
+        time.sleep(2)
 
-    # 크게 뜬 이미지 선택하여 "src" 속성을 받아옴
-    imgUrl = driver.find_element(By.XPATH, '//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div/div[1]/div[2]/div[2]/div/a/img').get_attribute("src")
+        # 크게 뜬 이미지 선택하여 "src" 속성을 받아옴
+        imgUrl = driver.find_element(
+            By.XPATH, '//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div/div[1]/div[2]/div[2]/div/a/img').get_attribute("src")
 
-    # NOTE: 해당 카테고리 이름 쓰기
-    imgName = 'Modern'
-    print(f'{imgUrl}/{imgName}{str(count)}.jpg')
+        # NOTE: 해당 카테고리 이름 쓰기
+        imgName = 'Modern'
+        print(f'{imgUrl}/{imgName}{str(count)}.jpg')
 
-    urllib.request.urlretrieve(imgUrl, f'{img_folder}/{imgName}{str(count)}.jpg')
+        urllib.request.urlretrieve(
+            imgUrl, f'{img_folder}/{imgName}{str(count)}.jpg')
 
-    count = count + 1
-    print(count)
+        count = count + 1
+        print(count)
 
-    if count > 100000:  # 다운 받을 이미지 갯수 조정
-        break
+        if count > 100000:  # 다운 받을 이미지 갯수 조정
+            break
+    except:
+        pass
+
+driver.close()
