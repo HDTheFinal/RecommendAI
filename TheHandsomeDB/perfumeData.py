@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 
 import os
 
@@ -29,23 +30,28 @@ os.system('cls')
 PICK_LOC = ['더현대대구', '본점', '판교', '신촌점']
 
 CURRENT_CATEGORY = driver.current_url.split('/')[4]
-resultText = open(currentLoc+'perfume_'+CURRENT_CATEGORY+'.txt', 'w', encoding='utf-8')
+resultText = open(currentLoc+'perfume_'+CURRENT_CATEGORY +'.txt', 'w', encoding='utf-8')
 
 # 현재 카테고리 및 코드
 CURRENT_CODE = CURRENT_CATEGORY[0:1].upper()
 
 for page in range(100):
     print("--", driver.current_url)
+    driver.get(driver.current_url)
     resultText.write(f"--{str(driver.current_url)}\n")
+
     wait = WebDriverWait(driver, 10)
 
     firstitem = '//*[@id="right"]/div[2]/div[2]/ul/li[1]'
+    nextpage_btn = '//*[@id="right"]/div[3]/a[3]'
+
     item = wait.until(EC.element_to_be_clickable((By.XPATH, firstitem)))
+    item = wait.until(EC.element_to_be_clickable((By.XPATH, nextpage_btn)))
 
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
 
-    time.sleep(2)
+    time.sleep(5)
 
     # 상품 목록 ul
     itemlist = soup.select('ul.prdList>li.xans-record-')
@@ -102,13 +108,10 @@ for page in range(100):
         resultText.write(
             f"values ('{str(CURRENT_CODE+P_ID)}','{str(P_NAME)}','{str(P_BNAME)}','{str(P_IMAGE1)}','{str(P_IMAGE2)}',{str(P_PRICE)},{str(P_DATE)},'{str(P_LOC)}',{str(P_STOCK)},'{str(CATEGORY_CLARGE)}','{str(CATEGORY_C_MEDIUM)}','{str(P_LABEL)}', NULL)\n\n")
     try:
-        nextpage_btn = '//*[@id="right"]/div[3]/a[3]/img'
-        driver.find_element(By.XPATH, nextpage_btn).click()
+        driver.find_element(By.XPATH, nextpage_btn).send_keys(Keys.ENTER)
         time.sleep(2)
     except:
         print("데이터 수집 완료.")
-        break
-
 #     print('--------------------------------------------')
 # 파일 닫기
 resultText.close()
