@@ -37,6 +37,9 @@ CURRENT_CODE = CURRENT_CATEGORY[0:1].upper()
 
 for page in range(100):
     print("--", driver.current_url)
+    if ('none' in driver.current_url):
+            print(CURRENT_CATEGORY + " 완료")
+            break
     driver.get(driver.current_url)
     resultText.write(f"--{str(driver.current_url)}\n")
 
@@ -107,12 +110,10 @@ for page in range(100):
             "insert into PRODUCT (P_ID,P_NAME,P_BNAME,P_IMAGE1,P_IMAGE2,P_PRICE,P_DATE,P_LOC,P_STOCK,CATEGORY_CLARGE,CATEGORY_C_MEDIUM,P_LABEL,P_BIMAGE)\n")
         resultText.write(
             f"values ('{str(CURRENT_CODE+P_ID)}','{str(P_NAME)}','{str(P_BNAME)}','{str(P_IMAGE1)}','{str(P_IMAGE2)}',{str(P_PRICE)},{str(P_DATE)},'{str(P_LOC)}',{str(P_STOCK)},'{str(CATEGORY_CLARGE)}','{str(CATEGORY_C_MEDIUM)}','{str(P_LABEL)}', NULL)\n\n")
-    try:
+
         driver.find_element(By.XPATH, nextpage_btn).send_keys(Keys.ENTER)
         time.sleep(2)
-    except:
-        print("데이터 수집 완료.")
-#     print('--------------------------------------------')
+
 # 파일 닫기
 resultText.close()
 driver.close()
