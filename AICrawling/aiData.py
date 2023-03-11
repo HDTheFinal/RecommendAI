@@ -25,8 +25,14 @@ else:
     print('존재X')
     os.mkdir(img_folder)
 
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+options.add_argument('window-size=1920x1080')
+options.add_argument("disable-gpu")
+# 혹은 options.add_argument("--disable-gpu")
+
 # FEAT: 이미지크롤링
-driver = webdriver.Chrome()
+driver = webdriver.Chrome('../chromedriver_win32', chrome_options=options)
 driver.get("https://www.google.co.kr/imghp?hl=ko&tab=wi&authuser=0&ogbl")
 elem = driver.find_element(By.NAME, "q")  # 구글 검색창 선택
 elem.send_keys(search_key)  # 검색창에 검색할 내용(name)넣기
