@@ -10,8 +10,12 @@ import shutil
 # 콘솔 초기화
 os.system('cls')
 
+# NOTE: 변수처리
+category = 'Daily'
+search_key = '캐주얼 룩'
+
 # FEAT: 폴더 삭제 후 실행
-img_folder = "C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/AI_DataSet/Modern"
+img_folder = "C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/AI_DataSet/"+category
 
 if os.path.isdir(img_folder):
     print('존재O')
@@ -25,7 +29,7 @@ else:
 driver = webdriver.Chrome()
 driver.get("https://www.google.co.kr/imghp?hl=ko&tab=wi&authuser=0&ogbl")
 elem = driver.find_element(By.NAME, "q")  # 구글 검색창 선택
-elem.send_keys('정장 룩')  # 검색창에 검색할 내용(name)넣기
+elem.send_keys(search_key)  # 검색창에 검색할 내용(name)넣기
 elem.send_keys(Keys.RETURN)  # 검색할 내용을 넣고 enter를 치는것!
 
 #
@@ -63,13 +67,10 @@ for img in imgs:
         # 크게 뜬 이미지 선택하여 "src" 속성을 받아옴
         imgUrl = driver.find_element(
             By.XPATH, '//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div/div[1]/div[2]/div[2]/div/a/img').get_attribute("src")
-
-        # NOTE: 해당 카테고리 이름 쓰기
-        imgName = 'Modern'
-        print(f'{imgUrl}/{imgName}{str(count)}.jpg')
+        print(f'{imgUrl}/{category}{str(count)}.jpg')
 
         urllib.request.urlretrieve(
-            imgUrl, f'{img_folder}/{imgName}{str(count)}.jpg')
+            imgUrl, f'{img_folder}/{category}{str(count)}.jpg')
 
         count = count + 1
         print(count)
