@@ -10,11 +10,20 @@ def createDirectory(directory):
     try:
         if not os.path.exists(directory):
             os.makedirs(directory)
+        else:
+            print('존재O')
+            shutil.rmtree(directory)
+            os.mkdir(directory)
     except OSError:
         print("Error: Failed to create the directory.")
 
 def crawling_img(name, SEARCH_KEY):
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument('headless')
+    options.add_argument('window-size=1920x1080')
+    options.add_argument("disable-gpu")
+
+    driver = webdriver.Chrome('../chromedriver_win32', chrome_options=options)
     driver.get("https://www.google.co.kr/imghp?hl=ko&tab=wi&authuser=0&ogbl")
     elem = driver.find_element("name", "q")
     elem.send_keys(SEARCH_KEY)
@@ -62,10 +71,10 @@ def crawling_img(name, SEARCH_KEY):
     driver.close()
 
 LOOKS = {
-    'Chic' : '시크 룩',
-    'Daily' : '데일리 룩',
-    'Elegant' : '엘레강스 룩',
-    'Formal' : '포멀 룩',
+    # 'Chic' : '시크 룩',
+    # 'Daily' : '데일리 룩',
+    # 'Elegant' : '엘레강스 룩',
+    # 'Formal' : '정장 룩',
     'Lovely' : '러블리 룩',
     'Modern' : '모던 룩'
 }
