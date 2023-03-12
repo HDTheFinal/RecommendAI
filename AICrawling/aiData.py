@@ -56,7 +56,7 @@ while True:
     new_height = driver.execute_script("return document.body.scrollHeight")
     if new_height == last_height:
         try:
-            driver.find_element_by_css_selector(".mye4qd").click()
+            driver.find_element(By.CSS_SELECTOR,".mye4qd").click()
         except:
             break
     last_height = new_height
