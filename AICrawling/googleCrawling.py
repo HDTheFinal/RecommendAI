@@ -20,23 +20,26 @@ def crawling_img(name, SEARCH_KEY):
     elem.send_keys(SEARCH_KEY)
     elem.send_keys(Keys.RETURN)
 
-    # #
-    # SCROLL_PAUSE_TIME = 1
-    # # Get scroll height
-    # last_height = driver.execute_script("return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
-    # while True:
-    #     # Scroll down to bottom
-    #     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
-    #     # Wait to load page
-    #     time.sleep(SCROLL_PAUSE_TIME)
-    #     # Calculate new scroll height and compare with last scroll height
-    #     new_height = driver.execute_script("return document.body.scrollHeight")
-    #     if new_height == last_height:
-    #         try:
-    #             driver.find_element(By.CSS_SELECTOR,".mye4qd").click()
-    #         except:
-    #             break
-    #     last_height = new_height
+    #
+    SCROLL_PAUSE_TIME = 1
+    scroll_count = 0
+    # Get scroll height
+    last_height = driver.execute_script("return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
+    while True:
+    # while scroll_count <= 5000:
+        # Scroll down to bottom
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
+        # Wait to load page
+        time.sleep(SCROLL_PAUSE_TIME)
+        # Calculate new scroll height and compare with last scroll height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            try:
+                driver.find_element(By.CSS_SELECTOR,".mye4qd").click()
+                scroll_count = scroll_count + 1
+            except:
+                break
+        last_height = new_height
 
     imgs = driver.find_elements(By.CSS_SELECTOR,".rg_i.Q4LuWd")
     dir = "D:/coding/FINAL/RecommendAI/Recommend/test/"+ name
