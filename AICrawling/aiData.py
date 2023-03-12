@@ -15,7 +15,7 @@ category = 'Daily'
 search_key = '캐주얼 룩'
 
 # FEAT: 폴더 삭제 후 실행
-img_folder = "C:/Users/KOSA/Desktop/THEFINAL/RecommendAI/AI_DataSet/"+category
+img_folder = "D:/coding/FINAL/RecommendAI/Recommend/train/"+category
 
 if os.path.isdir(img_folder):
     print('존재O')
@@ -46,7 +46,7 @@ last_height = driver.execute_script(
     "return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
 
 # NOTE: 스크롤 할 횟수 쓰기
-while scroll_count > 10:
+while True:
     # Scroll down to bottom
     driver.execute_script(
         "window.scrollTo(0, document.body.scrollHeight);")  # 브라우저 끝까지 스크롤을 내림
@@ -81,7 +81,7 @@ for img in imgs:
         count = count + 1
         print(count)
 
-        if count > 100000:  # 다운 받을 이미지 갯수 조정
+        if count > 2500000:  # 다운 받을 이미지 갯수 조정
             break
     except:
         pass
