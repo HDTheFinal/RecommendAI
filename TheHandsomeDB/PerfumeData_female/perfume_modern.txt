@@ -1,0 +1,179 @@
+--https://www.perfumegraphy.com/category/modern/663/
+insert into PRODUCT values ('M2240','실버 머스크 엑스트레 퍼퓸','나소마토','//www.perfumegraphy.com/web/product/medium/202108/40bda8366dea19532aaee41818845cce.jpg','//www.perfumegraphy.com/web/product/medium/202108/40bda8366dea19532aaee41818845cce.jpg',210000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1681','퓨어 머스크','나르시소 로드리게즈','//www.perfumegraphy.com/web/product/medium/202212/6259e56216364b90b50855ddd553b8b5.jpg','//www.perfumegraphy.com/web/product/medium/202212/6259e56216364b90b50855ddd553b8b5.jpg',66000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2376','001 우먼 오 드 뚜왈렛','로에베','//www.perfumegraphy.com/web/product/medium/202203/47a5a77fa0f2dc4368b37e3ae36ebeeb.jpg','//www.perfumegraphy.com/web/product/medium/202203/47a5a77fa0f2dc4368b37e3ae36ebeeb.jpg',125000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2364','001 맨 오 드 뚜왈렛','로에베','//www.perfumegraphy.com/web/product/medium/202211/f8c8d570a592767563e1e9a4031e0d23.jpg','//www.perfumegraphy.com/web/product/medium/202211/f8c8d570a592767563e1e9a4031e0d23.jpg',100000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1427','다크 앰버 앤 진저 릴리 코롱 인텐스','조말론','//www.perfumegraphy.com/web/product/medium/202107/f7fce792644f5c4f82a840dfa85e838f.jpg','//www.perfumegraphy.com/web/product/medium/202107/f7fce792644f5c4f82a840dfa85e838f.jpg',182000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1705','어벤투스 포허','크리드','//www.perfumegraphy.com/web/product/medium/202211/e174f348516221571c90d3894e01ae09.jpeg','//www.perfumegraphy.com/web/product/medium/202211/e174f348516221571c90d3894e01ae09.jpeg',269000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1377','모하비고스트 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202211/15b6ed9c6bd1c4a8c805571cf8313927.jpg','//www.perfumegraphy.com/web/product/medium/202211/15b6ed9c6bd1c4a8c805571cf8313927.jpg',210000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2488','솔레이네쥬 오 드 퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202209/6d9e323b278239548714e303b9c54c48.jpg','//www.perfumegraphy.com/web/product/medium/202209/6d9e323b278239548714e303b9c54c48.jpg',290000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1530','아쿠아 유니버셜 오 드 뚜왈렛','메종 프란시스 커정','//www.perfumegraphy.com/web/product/medium/202212/eb9ef72ab8e35c1f6b515bef99a9d3b9.jpg','//www.perfumegraphy.com/web/product/medium/202212/eb9ef72ab8e35c1f6b515bef99a9d3b9.jpg',220000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2352','리브르 오 드 퍼퓸','입생로랑','//www.perfumegraphy.com/web/product/medium/202108/7dfe16ca978d76a0e47b5f67e3fc6c69.jpg','//www.perfumegraphy.com/web/product/medium/202108/7dfe16ca978d76a0e47b5f67e3fc6c69.jpg',85000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2381','오 트리쁠 알 카시르','불리','//www.perfumegraphy.com/web/product/medium/202203/ea842aeaf72e450d80cfdfc95d1bf593.jpg','//www.perfumegraphy.com/web/product/medium/202203/ea842aeaf72e450d80cfdfc95d1bf593.jpg',180000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2626','티어스 오브 아이리스','구찌 알케미스트 가든','//www.perfumegraphy.com/web/product/medium/202303/cc0514e85f4151f61bb821db12947111.jpg','//www.perfumegraphy.com/web/product/medium/202303/cc0514e85f4151f61bb821db12947111.jpg',365000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2311','오르페옹 오 드 퍼퓸','딥디크','//www.perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg','//www.perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg',240350,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1601','윈로즈','프레데릭 말','//www.perfumegraphy.com/web/product/medium/202302/58237c25b21529ed1a7dfaef4e71cf15.jpg','//www.perfumegraphy.com/web/product/medium/202302/58237c25b21529ed1a7dfaef4e71cf15.jpg',195000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2262','프렌치 러버 오 드 퍼퓸','프레데릭 말','//www.perfumegraphy.com/web/product/medium/202212/974a64312433c8689236d00482932762.jpg','//www.perfumegraphy.com/web/product/medium/202212/974a64312433c8689236d00482932762.jpg',245000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1690','플러리시모','크리드','//www.perfumegraphy.com/web/product/medium/202211/e917846fc93885c8172f6a0742085fa7.jpeg','//www.perfumegraphy.com/web/product/medium/202211/e917846fc93885c8172f6a0742085fa7.jpeg',319000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2623','보체 비바 오 드 퍼퓸','발렌티노','//www.perfumegraphy.com/web/product/medium/202302/197cee92efd6a53eab51124213abc6e4.jpg','//www.perfumegraphy.com/web/product/medium/202302/197cee92efd6a53eab51124213abc6e4.jpg',102000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2607','이지 투 러브 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/79100b97817d7b26ed360d34d95acd5f.jpg','//www.perfumegraphy.com/web/product/medium/202302/79100b97817d7b26ed360d34d95acd5f.jpg',285000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2605','재스민 레더 오 드 퍼퓸','오디딸리','//www.perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg','//www.perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg',285000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2604','패러독스 오 드 퍼퓸','프라다','//www.perfumegraphy.com/web/product/medium/202302/3ccb92bf9b4fa21efdc20a834fcfa328.jpg','//www.perfumegraphy.com/web/product/medium/202302/3ccb92bf9b4fa21efdc20a834fcfa328.jpg',145000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+--https://www.perfumegraphy.com/category/modern/663/?page=2
+insert into PRODUCT values ('M2590','알타이아 아타카마 오 드 퍼퓸','알타이아','//www.perfumegraphy.com/web/product/medium/202301/93d89b904f4344ee15b2260a939acb4e.jpg','//www.perfumegraphy.com/web/product/medium/202301/93d89b904f4344ee15b2260a939acb4e.jpg',331000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2589','알타이아 애니 데이 나우 오 드 퍼퓸','알타이아','//www.perfumegraphy.com/web/product/medium/202301/5f8a47bc9d918b99c20fce8636de92cb.jpg','//www.perfumegraphy.com/web/product/medium/202301/5f8a47bc9d918b99c20fce8636de92cb.jpg',331000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2581','조말론 베티버 앤 골든 바닐라 코롱 인텐스','조말론','//www.perfumegraphy.com/web/product/medium/202212/1556bbef9499463dd193f73179f865be.jpg','//www.perfumegraphy.com/web/product/medium/202212/1556bbef9499463dd193f73179f865be.jpg',184000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2548','스테파니 브루진 로 드 세비뉴 오 드 퍼퓸','스테파니','//www.perfumegraphy.com/web/product/medium/202211/55cdcbe790fd2c53ad3a061921246d15.jpg','//www.perfumegraphy.com/web/product/medium/202211/55cdcbe790fd2c53ad3a061921246d15.jpg',225000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2539','조말론 바이올렛 앤 앰버 압솔뤼 코롱','조말론','//www.perfumegraphy.com/web/product/medium/202211/641c16e8156a099e72a7da04f108e9d3.jpg','//www.perfumegraphy.com/web/product/medium/202211/641c16e8156a099e72a7da04f108e9d3.jpg',395000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2524','스테파니 브루진 파리 몽타뉴 오 드 퍼퓸','스테파니','//www.perfumegraphy.com/web/product/medium/202210/fa1475a028711a9dd458e4f2824e2319.jpg','//www.perfumegraphy.com/web/product/medium/202210/fa1475a028711a9dd458e4f2824e2319.jpg',225000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2502','키에린 뉴욕 10am 플러트 오 드 퍼퓸 스프레이','키에린','//www.perfumegraphy.com/web/product/medium/202209/47972a0556717cc8bd2548155718ebf2.jpg','//www.perfumegraphy.com/web/product/medium/202209/47972a0556717cc8bd2548155718ebf2.jpg',145000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2499','키에린 뉴욕 샹탈 스카이 오 드 퍼퓸 스프레이','키에린','//www.perfumegraphy.com/web/product/medium/202209/070d0fe0f15c2a31d8af27ca3c575d7f.jpg','//www.perfumegraphy.com/web/product/medium/202209/070d0fe0f15c2a31d8af27ca3c575d7f.jpg',54000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2454','몽클레르 뿌르 팜므 오 드 퍼퓸','몽클레르','//www.perfumegraphy.com/web/product/medium/202207/94cb62cb9ef2f0b6b53c3cb68904331d.jpg','//www.perfumegraphy.com/web/product/medium/202207/94cb62cb9ef2f0b6b53c3cb68904331d.jpg',110000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2450','딥디크 제라늄 오도라타 오 드 뚜왈렛 100ml','딥디크','//www.perfumegraphy.com/web/product/medium/202207/9d7fc9a8262b6a599647d1a5a1b62eca.jpg','//www.perfumegraphy.com/web/product/medium/202207/9d7fc9a8262b6a599647d1a5a1b62eca.jpg',176800,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2419','트루사르디 페미닌 오 드 퍼퓸','트루사르디','//www.perfumegraphy.com/web/product/medium/202205/4e0a8fa6cebe491ee7ad78f13c6598be.jpg','//www.perfumegraphy.com/web/product/medium/202205/4e0a8fa6cebe491ee7ad78f13c6598be.jpg',52000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2401','SWG컬렉션 베티버느와 50ml','SWG컬렉션','//www.perfumegraphy.com/web/product/medium/202205/b440f4c96a45ddd4449fe507c11b42b1.jpg','//www.perfumegraphy.com/web/product/medium/202205/b440f4c96a45ddd4449fe507c11b42b1.jpg',68600,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2336','세르주루텐 라 휘드 베흘랑 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/c57f7c9969558384af83758c0ee294d9.jpg','//www.perfumegraphy.com/web/product/medium/202108/c57f7c9969558384af83758c0ee294d9.jpg',120000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2303','바이레도 선데이 코롱 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202201/60da8cfc00853a8af1ae689e8d8ab7fa.jpg','//www.perfumegraphy.com/web/product/medium/202201/60da8cfc00853a8af1ae689e8d8ab7fa.jpg',209000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2295','로이비 휘그 앤 시더우드 오 드 퍼퓸 50ml','로이비','//www.perfumegraphy.com/web/product/medium/202112/a61300649c05fbdce6741d3c452bb391.jpg','//www.perfumegraphy.com/web/product/medium/202112/a61300649c05fbdce6741d3c452bb391.jpg',98100,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2280','산타마리아 노벨라 아쿠아 디 콜로니아 로사 오 드 코롱 100ml','산타마리아','//www.perfumegraphy.com/web/product/medium/202112/d765d24db278fa8beaee36206ac1058d.jpg','//www.perfumegraphy.com/web/product/medium/202112/d765d24db278fa8beaee36206ac1058d.jpg',154800,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2226','프로소디 런던 베리 블릿츠 오 드 코롱 30ml','프로소디','//www.perfumegraphy.com/web/product/medium/202108/6783277470f0eed5211c3fd274d64572.jpg','//www.perfumegraphy.com/web/product/medium/202108/6783277470f0eed5211c3fd274d64572.jpg',70500,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2213','프로소디 런던 히아신스 존퀼 오 드 퍼퓸 50ml','프로소디','//www.perfumegraphy.com/web/product/medium/202108/2a72982074942c9bcdc77d06f2fa7e9f.jpg','//www.perfumegraphy.com/web/product/medium/202108/2a72982074942c9bcdc77d06f2fa7e9f.jpg',134000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2178','세르주루텐 라 를르지외즈 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/8417040832ab504788ecae2348ab6a82.jpg','//www.perfumegraphy.com/web/product/medium/202108/8417040832ab504788ecae2348ab6a82.jpg',164000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2173','스테파니 브루진 파리생제르망 오 드 퍼퓸 100ml','스테파니','//www.perfumegraphy.com/web/product/medium/202107/a2c42d038e569d48fb88c2525adcc8de.jpg','//www.perfumegraphy.com/web/product/medium/202107/a2c42d038e569d48fb88c2525adcc8de.jpg',225000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+--https://www.perfumegraphy.com/category/modern/663/?page=3
+insert into PRODUCT values ('M2171','스테파니 브루진 델리스 오 드 퍼퓸 100ml','스테파니','//www.perfumegraphy.com/web/product/medium/202107/d9e0b360d3e4959615f88cc8402518af.jpg','//www.perfumegraphy.com/web/product/medium/202107/d9e0b360d3e4959615f88cc8402518af.jpg',225000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2170','스테파니 브루진 캐시미어 오 드 퍼퓸 100ml','스테파니','//www.perfumegraphy.com/web/product/medium/202107/992836347410660bc6b5f09225f3a165.jpg','//www.perfumegraphy.com/web/product/medium/202107/992836347410660bc6b5f09225f3a165.jpg',225000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1991','사랑해요 #61 빌리브 인 캐피탈리즘 오 드 퍼퓸 100ml','사랑해요','//www.perfumegraphy.com/web/product/medium/202302/6c670ba908a2b6af4d810ae531b5dab1.jpg','//www.perfumegraphy.com/web/product/medium/202302/6c670ba908a2b6af4d810ae531b5dab1.jpg',123000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1928','글로시에 글로시에 유 오 드 퍼퓸 50ml','글로시에','//www.perfumegraphy.com/web/product/medium/202301/b95b36c0ad5bd46e96a71353338501e1.jpg','//www.perfumegraphy.com/web/product/medium/202301/b95b36c0ad5bd46e96a71353338501e1.jpg',89000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1916','트루사르디 돈나 오 드 퍼퓸 30/50/100ml','트루사르디','//www.perfumegraphy.com/web/product/medium/202301/627476c6598749d2342775bcdaea3f1b.jpg','//www.perfumegraphy.com/web/product/medium/202301/627476c6598749d2342775bcdaea3f1b.jpg',40000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1914','랄프로렌 폴로 우먼 오 드 퍼퓸 30/50/100ml','랄프로렌','//www.perfumegraphy.com/web/product/medium/202211/454211592fe7384b16764766ad369b7a.jpg','//www.perfumegraphy.com/web/product/medium/202211/454211592fe7384b16764766ad369b7a.jpg',68000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1903','랄프로렌 로맨스 오 드 퍼퓸 30/50/100ml','랄프로렌','//www.perfumegraphy.com/web/product/medium/202211/a6e9da0d9fc05d3f8099198228eb9c9e.jpg','//www.perfumegraphy.com/web/product/medium/202211/a6e9da0d9fc05d3f8099198228eb9c9e.jpg',63500,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1819','트루사르디 르비드 밀라노 비아 델라 스피가 오 드 퍼퓸 100ml','트루사르디','//www.perfumegraphy.com/web/product/medium/202301/1336f795974505757e64000e3d6c169e.jpg','//www.perfumegraphy.com/web/product/medium/202301/1336f795974505757e64000e3d6c169e.jpg',238000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1787','샤보 에뜨왈 드 룬 오 드 퍼퓸 30ml','샤보','//www.perfumegraphy.com/web/product/medium/202301/f94a86df3c690454552e074f47e3e756.jpg','//www.perfumegraphy.com/web/product/medium/202301/f94a86df3c690454552e074f47e3e756.jpg',101300,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1768','메종 마르지엘라 위스퍼 인 더 라이브러리','메종','//www.perfumegraphy.com/web/product/medium/202302/759a57b71ff00d12171f9d96ae89ff6c.jpg','//www.perfumegraphy.com/web/product/medium/202302/759a57b71ff00d12171f9d96ae89ff6c.jpg',149800,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1712','메모 프렌치 레더 오드퍼퓸','메모','//www.perfumegraphy.com/web/product/medium/202212/bdc31255c6741240f274b67128a69d1f.jpg','//www.perfumegraphy.com/web/product/medium/202212/bdc31255c6741240f274b67128a69d1f.jpg',268000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1710','메모 케두 오드퍼퓸 75ml','메모','//www.perfumegraphy.com/web/product/medium/202212/bf8adc4f5cb418d2fe3ee93355785103.jpg','//www.perfumegraphy.com/web/product/medium/202212/bf8adc4f5cb418d2fe3ee93355785103.jpg',263000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1691','크리드 플뢰르 드 가드니아 오 드 퍼퓸 75ml','크리드','//www.perfumegraphy.com/web/product/medium/202211/515d3b09309077e83a59e7d44f6debf8.jpeg','//www.perfumegraphy.com/web/product/medium/202211/515d3b09309077e83a59e7d44f6debf8.jpeg',363000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1608','더 디퍼런트 컴퍼니 수블림 발키스 오 드 퍼퓸','더','//www.perfumegraphy.com/web/product/medium/202212/6fe96fe681b08b95704b621524c4b84f.jpg','//www.perfumegraphy.com/web/product/medium/202212/6fe96fe681b08b95704b621524c4b84f.jpg',142800,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1602','프레데릭 말 오 드 매그놀리아','프레데릭','//www.perfumegraphy.com/web/product/medium/202212/f5887392bc1a5857466ba10abceee633.jpg','//www.perfumegraphy.com/web/product/medium/202212/f5887392bc1a5857466ba10abceee633.jpg',295000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1570','발렌티노 발렌티나 우먼 오 드 퍼퓸','발렌티노','//www.perfumegraphy.com/web/product/medium/202301/5d6334b6c795b6ae5ecfc0ffc255dbbf.jpg','//www.perfumegraphy.com/web/product/medium/202301/5d6334b6c795b6ae5ecfc0ffc255dbbf.jpg',125000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1557','조말론 와일드 블루벨 코롱','조말론','//www.perfumegraphy.com/web/product/medium/202107/e1cde1e34e8f6451dec35e23d024dd8f.jpg','//www.perfumegraphy.com/web/product/medium/202107/e1cde1e34e8f6451dec35e23d024dd8f.jpg',74800,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1551','메종마르지엘라 레이지선데이 모닝','메종마르지엘라','//www.perfumegraphy.com/web/product/medium/202302/2c9ce49f277a82bd4cd9d2a976790a1b.jpg','//www.perfumegraphy.com/web/product/medium/202302/2c9ce49f277a82bd4cd9d2a976790a1b.jpg',147800,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1499','세르주루텐 페미니떼드부아 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/a3c47ad8a12dc75bacd30f2c371c8fa3.jpg','//www.perfumegraphy.com/web/product/medium/202108/a3c47ad8a12dc75bacd30f2c371c8fa3.jpg',164000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1492','아이젠버그 조즈 우먼 30/50/100ml','아이젠버그','//www.perfumegraphy.com/web/product/medium/202111/52dc9df1b23e10f024c55680882068ca.jpg','//www.perfumegraphy.com/web/product/medium/202111/52dc9df1b23e10f024c55680882068ca.jpg',77000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+--https://www.perfumegraphy.com/category/modern/663/?page=4
+insert into PRODUCT values ('M1352','프라다 라팜므 오 드 퍼퓸 35/50/100ml','프라다','//www.perfumegraphy.com/web/product/medium/202303/76a03ada521f9731c0211f54fba3a66d.jpg','//www.perfumegraphy.com/web/product/medium/202303/76a03ada521f9731c0211f54fba3a66d.jpg',94000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1348','롤리타렘피카 우먼 오 드 퍼퓸','롤리타렘피카','//www.perfumegraphy.com/web/product/medium/202301/f35462a9d20e9a659fe8dba69f620a5a.jpg','//www.perfumegraphy.com/web/product/medium/202301/f35462a9d20e9a659fe8dba69f620a5a.jpg',45000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1325','프라다 레스 인퓨전 디 아이리스 세더 오 드 퍼퓸 100ml','프라다','//www.perfumegraphy.com/web/product/medium/202108/b7200a06dea4060e4f6c1a841976cd6d.jpg','//www.perfumegraphy.com/web/product/medium/202108/b7200a06dea4060e4f6c1a841976cd6d.jpg',184000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1544','겔랑 라쁘띠 로브 느와르 레제르 오 드 퍼퓸 50ml','겔랑','//www.perfumegraphy.com/web/product/medium/202108/72a81dd8c23f57b515d6b00c9392d542.jpg','//www.perfumegraphy.com/web/product/medium/202108/72a81dd8c23f57b515d6b00c9392d542.jpg',68000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1490','아이젠버그 러브어페어 우먼 30/50/100ml','아이젠버그','//www.perfumegraphy.com/web/product/medium/202301/e92c97432c595e6f3f0d5325d5320496.jpg','//www.perfumegraphy.com/web/product/medium/202301/e92c97432c595e6f3f0d5325d5320496.jpg',77000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2573','조말론 미드나잇 머스크 앤 앰버 코롱','조말론','//www.perfumegraphy.com/web/product/medium/202212/18432e8c4a174e2284ec496b943a2471.jpg','//www.perfumegraphy.com/web/product/medium/202212/18432e8c4a174e2284ec496b943a2471.jpg',210000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2563','로에베 001 맨 오 드 퍼퓸','로에베','//www.perfumegraphy.com/web/product/medium/202211/409b2b364f48309957ea3ef8e1556fd9.jpg','//www.perfumegraphy.com/web/product/medium/202211/409b2b364f48309957ea3ef8e1556fd9.jpg',128000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2544','메종 마르지엘라 웬 더 레인 스탑스 오드뚜왈렛','메종','//www.perfumegraphy.com/web/product/medium/202302/a8454fb3f2d6879f451f8858a2eb023e.jpg','//www.perfumegraphy.com/web/product/medium/202302/a8454fb3f2d6879f451f8858a2eb023e.jpg',149800,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2493','에르메스 르 자르뎅 드 무슈리 오 드 뚜왈렛','에르메스','//www.perfumegraphy.com/web/product/medium/202209/d571661d008e4c2ae088087ebe2a458d.jpg','//www.perfumegraphy.com/web/product/medium/202209/d571661d008e4c2ae088087ebe2a458d.jpg',110000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2369','구딸파리 르 쉐브르페이유 오 드 뚜왈렛 100ml','구딸파리','//www.perfumegraphy.com/web/product/medium/202201/878f99d0b3e3af64cc6683ac690d6da5.jpg','//www.perfumegraphy.com/web/product/medium/202201/878f99d0b3e3af64cc6683ac690d6da5.jpg',145000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2277','조말론 포피 앤 바알리 코롱','조말론','//www.perfumegraphy.com/web/product/medium/202112/8d6e4d665997b553d8a12acce53c042a.jpg','//www.perfumegraphy.com/web/product/medium/202112/8d6e4d665997b553d8a12acce53c042a.jpg',79800,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2167','에트로 화이트 매그놀리아 오 드 퍼퓸 100ml','에트로','//www.perfumegraphy.com/web/product/medium/202212/c29e17b33a69f95eb934a2c1c09bb0eb.jpg','//www.perfumegraphy.com/web/product/medium/202212/c29e17b33a69f95eb934a2c1c09bb0eb.jpg',126000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1965','퍼퓸드말리 아탈리아 75ml','퍼퓸드말리','//www.perfumegraphy.com/web/product/medium/202301/15758d37dc4c88e677ecea4ca73336ca.jpg','//www.perfumegraphy.com/web/product/medium/202301/15758d37dc4c88e677ecea4ca73336ca.jpg',338000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1894','분더샵 인피니트 썬 오 드 퍼퓸 50ml','분더샵','//www.perfumegraphy.com/web/product/medium/202111/566a31f0c03fcc4e3394275db1795d34.jpg','//www.perfumegraphy.com/web/product/medium/202111/566a31f0c03fcc4e3394275db1795d34.jpg',103500,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1614','구찌 길티블랙 우먼 오 드 뚜왈렛','구찌','//www.perfumegraphy.com/web/product/medium/202210/317444df4e59a6fc485a7fa69cdaee94.png','//www.perfumegraphy.com/web/product/medium/202210/317444df4e59a6fc485a7fa69cdaee94.png',97000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1362','세르주루텐 끌레 드 머스크 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/1172276e9d1ae0edc1c726a764fbb982.jpg','//www.perfumegraphy.com/web/product/medium/202108/1172276e9d1ae0edc1c726a764fbb982.jpg',164000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1349','발렌시아가 플로라 보타니카 오 드 퍼퓸 30/50/100ml','발렌시아가','//www.perfumegraphy.com/web/product/medium/202301/e7846261f62916e42d99fcd7d85b9d12.jpg','//www.perfumegraphy.com/web/product/medium/202301/e7846261f62916e42d99fcd7d85b9d12.jpg',78000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1330','크리드 러브 인 화이트 30/75ml','크리드','//www.perfumegraphy.com/web/product/medium/202211/80afa116cc704ae3cc137a82f06ba5da.jpeg','//www.perfumegraphy.com/web/product/medium/202211/80afa116cc704ae3cc137a82f06ba5da.jpeg',235000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2388','아이젠버그 루즈 앤 느와르 오 드 퍼퓸','아이젠버그','//www.perfumegraphy.com/web/product/medium/202204/f29fcc651516d5da71654307bc72eb39.jpg','//www.perfumegraphy.com/web/product/medium/202204/f29fcc651516d5da71654307bc72eb39.jpg',77000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2484','불리 오 트리쁠 루브르 전갈좌의 요정 75ml','불리','//www.perfumegraphy.com/web/product/medium/202208/cb77bcc031598971c8311e2df6c6e2a2.jpg','//www.perfumegraphy.com/web/product/medium/202208/cb77bcc031598971c8311e2df6c6e2a2.jpg',193000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+--https://www.perfumegraphy.com/category/modern/663/?page=5
+insert into PRODUCT values ('M2349','입생로랑 리브르 인텐스 30ml','입생로랑','//www.perfumegraphy.com/web/product/medium/202203/08da2a6e289200d237cca03f443227c8.jpg','//www.perfumegraphy.com/web/product/medium/202203/08da2a6e289200d237cca03f443227c8.jpg',91500,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2273','조말론 자스민 삼박 앤 메리골드 코롱 인텐스 50ml','조말론','//www.perfumegraphy.com/web/product/medium/202112/d33363a0229ee45e20b04cb9dfdd0c90.jpg','//www.perfumegraphy.com/web/product/medium/202112/d33363a0229ee45e20b04cb9dfdd0c90.jpg',158000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M2126','돌체 앤 가바나 레드 오 드 뚜왈렛 100ml','돌체','//www.perfumegraphy.com/web/product/medium/202108/f58f79c4616e43c4c3660ec9fce4f25a.jpg','//www.perfumegraphy.com/web/product/medium/202108/f58f79c4616e43c4c3660ec9fce4f25a.jpg',128000,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1759','겔랑 랭스땅뜨 드 겔랑 오드퍼퓸 50/100ml','겔랑','//www.perfumegraphy.com/web/product/medium/202108/2b56aba4213bb76baae8323815da265f.jpg','//www.perfumegraphy.com/web/product/medium/202108/2b56aba4213bb76baae8323815da265f.jpg',70000,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1758','겔랑 랭스땅뜨 드 겔랑 오드뚜왈렛 50/100ml','겔랑','//www.perfumegraphy.com/web/product/medium/202108/8a5e5d93ac746f2985460a1af591e9d6.jpg','//www.perfumegraphy.com/web/product/medium/202108/8a5e5d93ac746f2985460a1af591e9d6.jpg',67000,SYSDATE,'판교점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1555','세르주루텐 라 비에르쥐 드 페 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/6a01dc8a9b4e18e58d62ca3f10e3958c.jpg','//www.perfumegraphy.com/web/product/medium/202108/6a01dc8a9b4e18e58d62ca3f10e3958c.jpg',174500,SYSDATE,'신촌점',0,'화장품','향수/캔들','female|modern', NULL);
+
+insert into PRODUCT values ('M1417','에스티로더 모던뮤즈 오 드 퍼퓸 50ml','에스티로더','//www.perfumegraphy.com/web/product/medium/202301/d88b750218e2347392f80441feafa297.jpg','//www.perfumegraphy.com/web/product/medium/202301/d88b750218e2347392f80441feafa297.jpg',88500,SYSDATE,'본점',0,'화장품','향수/캔들','female|modern', NULL);
+
