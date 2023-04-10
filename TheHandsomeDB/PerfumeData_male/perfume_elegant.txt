@@ -1,0 +1,134 @@
+--https://www.perfumegraphy.com/category/elegant/672/
+insert into PRODUCT values ('E1801','블랙 오키드 오 드 퍼퓸','톰포드','//perfumegraphy.com/web/product/medium/202211/54bea51cc8d1bc13a537527cf3e19766.jpg','//perfumegraphy.com/web/product/medium/202211/54bea51cc8d1bc13a537527cf3e19766.jpg',240000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1377','모하비고스트 오 드 퍼퓸','바이레도','//perfumegraphy.com/web/product/medium/202211/15b6ed9c6bd1c4a8c805571cf8313927.jpg','//perfumegraphy.com/web/product/medium/202211/15b6ed9c6bd1c4a8c805571cf8313927.jpg',210000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2301','블랙 샤프란 오 드 퍼퓸','바이레도','//perfumegraphy.com/web/product/medium/202201/61f30846cddb2ea6f6fb8a6b53db181b.jpg','//perfumegraphy.com/web/product/medium/202201/61f30846cddb2ea6f6fb8a6b53db181b.jpg',210000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1603','오드우드 오 드 퍼퓸','톰포드','//perfumegraphy.com/web/product/medium/202108/91a30c12061daddd76e489d73ff706bd.jpg','//perfumegraphy.com/web/product/medium/202108/91a30c12061daddd76e489d73ff706bd.jpg',274000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2628','더 아이즈 오브 더 타이거','구찌 알케미스트 가든','//perfumegraphy.com/web/product/medium/202303/d122475987c9ea2d615aeb0fa98e3b5e.jpg','//perfumegraphy.com/web/product/medium/202303/d122475987c9ea2d615aeb0fa98e3b5e.jpg',365000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2575','앤디미온 오 드 코롱','펜할리곤스','//perfumegraphy.com/web/product/medium/202212/d474ceac690bd5bd72ef302ef4e94620.jpg','//perfumegraphy.com/web/product/medium/202212/d474ceac690bd5bd72ef302ef4e94620.jpg',125000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2311','오르페옹 오 드 퍼퓸','딥디크','//perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg','//perfumegraphy.com/web/product/medium/202202/fa2e103b0569f3cd1e8286bdf343892f.jpg',240350,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2394','로즈 온 아이스 오 드 퍼퓸','킬리안','//perfumegraphy.com/web/product/medium/202204/82ec05ee9a61748fd46134624be6b94b.jpg','//perfumegraphy.com/web/product/medium/202204/82ec05ee9a61748fd46134624be6b94b.jpg',280000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2432','롤링 인 러브 오 드 퍼퓸','킬리안','//perfumegraphy.com/web/product/medium/202206/027aa511da39f43e88d584990f4559d5.jpg','//perfumegraphy.com/web/product/medium/202206/027aa511da39f43e88d584990f4559d5.jpg',280000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1621','베티버 엑스트라오디네르 오 드 퍼퓸','프레데릭 말','//perfumegraphy.com/web/product/medium/202212/2a842af88197a17892ce87b615889876.jpg','//perfumegraphy.com/web/product/medium/202212/2a842af88197a17892ce87b615889876.jpg',270000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2262','프렌치 러버 오 드 퍼퓸','프레데릭 말','//perfumegraphy.com/web/product/medium/202212/974a64312433c8689236d00482932762.jpg','//perfumegraphy.com/web/product/medium/202212/974a64312433c8689236d00482932762.jpg',245000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2269','뮤스크 라바줴','프레데릭 말','//perfumegraphy.com/web/product/medium/202212/636665024acbbd324e42fde397596ebb.jpg','//perfumegraphy.com/web/product/medium/202212/636665024acbbd324e42fde397596ebb.jpg',245000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1669','콜로니아 에센자 오 드 코롱','아쿠아 디 파르마','//perfumegraphy.com/web/product/medium/202210/c9e6aade804a8977f54060e282f22ae9.jpg','//perfumegraphy.com/web/product/medium/202210/c9e6aade804a8977f54060e282f22ae9.jpg',108000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2145','블랙팬텀 오 드 퍼퓸','킬리안','//perfumegraphy.com/web/product/medium/202212/1f090aa3834cc7d5fd3353204a5d8d85.jpg','//perfumegraphy.com/web/product/medium/202212/1f090aa3834cc7d5fd3353204a5d8d85.jpg',290000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2618','몬 투 더스크 오 드 퍼퓸','오디딸리','//perfumegraphy.com/web/product/medium/202302/c4fc079771147706cd6b73c643c6eac6.jpg','//perfumegraphy.com/web/product/medium/202302/c4fc079771147706cd6b73c643c6eac6.jpg',285000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2605','재스민 레더 오 드 퍼퓸','오디딸리','//perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg','//perfumegraphy.com/web/product/medium/202302/20be60da5fd07fe6e084bd03286080fd.jpg',285000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2593','옴므 인텐스 오 드 퍼퓸','디올','//perfumegraphy.com/web/product/medium/202108/a335f959595a921f4e4ac112c8527b37.jpg','//perfumegraphy.com/web/product/medium/202108/a335f959595a921f4e4ac112c8527b37.jpg',156000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2558','보드카 온 더 락스 오 드 퍼퓸','킬리안','//perfumegraphy.com/web/product/medium/202211/dc9515f820af9efdb25ee187bedbf61f.jpg','//perfumegraphy.com/web/product/medium/202211/dc9515f820af9efdb25ee187bedbf61f.jpg',280000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2474','인톡시케이티드 오 드 퍼퓸','킬리안','//perfumegraphy.com/web/product/medium/202208/8e235ffefd43e2b5d5a636f9730e4d04.jpg','//perfumegraphy.com/web/product/medium/202208/8e235ffefd43e2b5d5a636f9730e4d04.jpg',285000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2455','뿌르 옴므 오 드 퍼퓸','몽클레르','//perfumegraphy.com/web/product/medium/202207/63e033cc709bc8a12a27fcf6b1fc2439.jpg','//perfumegraphy.com/web/product/medium/202207/63e033cc709bc8a12a27fcf6b1fc2439.jpg',110000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+--https://www.perfumegraphy.com/category/elegant/672/?page=2
+insert into PRODUCT values ('E2449','오리엔탈 레더 오 드 퍼퓸','메모','//www.perfumegraphy.com/web/product/medium/202207/1f7e660d25e8ca9882c55bd3495d0abd.jpg','//www.perfumegraphy.com/web/product/medium/202207/1f7e660d25e8ca9882c55bd3495d0abd.jpg',268000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2439','러시안 레더 오 드 퍼퓸','메모','//www.perfumegraphy.com/web/product/medium/202206/5a43edd6db93bb6f5a634836d839df08.jpg','//www.perfumegraphy.com/web/product/medium/202206/5a43edd6db93bb6f5a634836d839df08.jpg',268000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2336','라 휘드 베흘랑 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/c57f7c9969558384af83758c0ee294d9.jpg','//www.perfumegraphy.com/web/product/medium/202108/c57f7c9969558384af83758c0ee294d9.jpg',120000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2313','우드이모텔 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202202/627561348ef8f2204c2796328dcedf58.jpg','//www.perfumegraphy.com/web/product/medium/202202/627561348ef8f2204c2796328dcedf58.jpg',209000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2241','바라온다 엑스트레 퍼퓸','나소마토','//www.perfumegraphy.com/web/product/medium/202108/660106fd5f948d692cfcf56037035325.jpg','//www.perfumegraphy.com/web/product/medium/202108/660106fd5f948d692cfcf56037035325.jpg',245500,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2239','블라마주 엑스트레 퍼퓸','나소마토','//www.perfumegraphy.com/web/product/medium/202108/83fd0ba6589394ec636fb106e4769deb.jpg','//www.perfumegraphy.com/web/product/medium/202108/83fd0ba6589394ec636fb106e4769deb.jpg',245500,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2235','블랙 아프가노 엑스트레 퍼퓸','나소마토','//www.perfumegraphy.com/web/product/medium/202108/723d143cf8fec7447ff8d32288405792.jpg','//www.perfumegraphy.com/web/product/medium/202108/723d143cf8fec7447ff8d32288405792.jpg',245500,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2218','베티베리오 오 드 퍼퓸','딥디크','//www.perfumegraphy.com/web/product/medium/202111/61826495aaad28272217c0658b0360fc.jpg','//www.perfumegraphy.com/web/product/medium/202111/61826495aaad28272217c0658b0360fc.jpg',209800,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2182','파이브 어 클락 오 진저 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/6a08b5e73efb4e46878e94ddac3156bc.jpg','//www.perfumegraphy.com/web/product/medium/202108/6a08b5e73efb4e46878e94ddac3156bc.jpg',164000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2178','라 를르지외즈 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/8417040832ab504788ecae2348ab6a82.jpg','//www.perfumegraphy.com/web/product/medium/202108/8417040832ab504788ecae2348ab6a82.jpg',164000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1963','칼라일','퍼퓸 드 말리','//www.perfumegraphy.com/web/product/medium/202301/6657c75022930629ac8fa11a927ad697.jpg','//www.perfumegraphy.com/web/product/medium/202301/6657c75022930629ac8fa11a927ad697.jpg',370000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1962','퍼시벌','퍼퓸 드 말리','//www.perfumegraphy.com/web/product/medium/202301/37456807ee2ae3f718d662341ef173ca.jpg','//www.perfumegraphy.com/web/product/medium/202301/37456807ee2ae3f718d662341ef173ca.jpg',238000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1820',' 르비드 밀라노 갤러리아','트루사르디 ','//www.perfumegraphy.com/web/product/medium/202301/aaecc213816ff6afee2b232db9c72b5d.jpg','//www.perfumegraphy.com/web/product/medium/202301/aaecc213816ff6afee2b232db9c72b5d.jpg',238000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1712','프렌치 레더 오드퍼퓸','메모','//www.perfumegraphy.com/web/product/medium/202212/bdc31255c6741240f274b67128a69d1f.jpg','//www.perfumegraphy.com/web/product/medium/202212/bdc31255c6741240f274b67128a69d1f.jpg',268000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1641','루나로사 카본 오 드 뚜왈렛','프라다','//www.perfumegraphy.com/web/product/medium/202108/d87d4b977eabeb6e4066295e040ea108.jpg','//www.perfumegraphy.com/web/product/medium/202108/d87d4b977eabeb6e4066295e040ea108.jpg',86000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1608','수블림 발키스 오 드 퍼퓸','더 디퍼런트 컴퍼니','//www.perfumegraphy.com/web/product/medium/202212/6fe96fe681b08b95704b621524c4b84f.jpg','//www.perfumegraphy.com/web/product/medium/202212/6fe96fe681b08b95704b621524c4b84f.jpg',142800,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1552','길티 뿌르옴므 오 드 뚜왈렛','구찌','//www.perfumegraphy.com/web/product/medium/202108/e40ca338e8f33e747cac452790a65eaf.jpg','//www.perfumegraphy.com/web/product/medium/202108/e40ca338e8f33e747cac452790a65eaf.jpg',90000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1499','페미니떼드부아 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/a3c47ad8a12dc75bacd30f2c371c8fa3.jpg','//www.perfumegraphy.com/web/product/medium/202108/a3c47ad8a12dc75bacd30f2c371c8fa3.jpg',164000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1410','우모 오 드 뚜왈렛','발렌티노','//www.perfumegraphy.com/web/product/medium/202301/fbe2066471eebac658ea6fae5570a09e.jpg','//www.perfumegraphy.com/web/product/medium/202301/fbe2066471eebac658ea6fae5570a09e.jpg',100000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1375','어벤투스 오 드 퍼퓸','크리드','//www.perfumegraphy.com/web/product/medium/202107/cbf501bca75c88d20620a686c4903753.jpg','//www.perfumegraphy.com/web/product/medium/202107/cbf501bca75c88d20620a686c4903753.jpg',310000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+--https://www.perfumegraphy.com/category/elegant/672/?page=3
+insert into PRODUCT values ('E1332','크리드 밀레지움 임페리얼 오 드 퍼퓸','크리드','//www.perfumegraphy.com/web/product/medium/202211/fdd6d36e70a271adba79a2032ff4b498.jpeg','//www.perfumegraphy.com/web/product/medium/202211/fdd6d36e70a271adba79a2032ff4b498.jpeg',290000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1325','프라다 레스 인퓨전 디 아이리스 세더 오 드 퍼퓸 100ml','프라다','//www.perfumegraphy.com/web/product/medium/202108/b7200a06dea4060e4f6c1a841976cd6d.jpg','//www.perfumegraphy.com/web/product/medium/202108/b7200a06dea4060e4f6c1a841976cd6d.jpg',184000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2486','톰포드 베네시안 베르가못 오 드 퍼퓸','톰포드','//www.perfumegraphy.com/web/product/medium/202208/ee60f65e215a05dc2f362074f583563e.jpg','//www.perfumegraphy.com/web/product/medium/202208/ee60f65e215a05dc2f362074f583563e.jpg',295000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2248','킬리안 문라이트 인 헤븐 오 드 퍼퓸 50ml','킬리안','//www.perfumegraphy.com/web/product/medium/202109/64eef4409f0b796d5b627f3345e084fc.jpg','//www.perfumegraphy.com/web/product/medium/202109/64eef4409f0b796d5b627f3345e084fc.jpg',280000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2460','에르메스 오 드 시트론 느와 오 드 코롱','에르메스','//www.perfumegraphy.com/web/product/medium/202207/34dc2eb44bc0c6926eb02e554f41d041.jpg','//www.perfumegraphy.com/web/product/medium/202207/34dc2eb44bc0c6926eb02e554f41d041.jpg',105000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2400','킬리안 스트레이트 투헤븐 화이트크리스탈 오 드 퍼퓸 50ml','킬리안','//www.perfumegraphy.com/web/product/medium/202205/33926fad78e77027eb36d0c1ff9c187c.jpg','//www.perfumegraphy.com/web/product/medium/202205/33926fad78e77027eb36d0c1ff9c187c.jpg',280000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2346','메종 마르지엘라 뮤티니 오 드 퍼퓸 50ml','메종','//www.perfumegraphy.com/web/product/medium/202202/427590d732c59500c80df4cc366bd16e.jpg','//www.perfumegraphy.com/web/product/medium/202202/427590d732c59500c80df4cc366bd16e.jpg',130000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2345','크리드 오리지널 베티버','크리드','//www.perfumegraphy.com/web/product/medium/202211/c62ab3c641beb1c65a1daa7bea851bfe.jpg','//www.perfumegraphy.com/web/product/medium/202211/c62ab3c641beb1c65a1daa7bea851bfe.jpg',375000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2315','바이레도 슬로우 댄스 오 드 퍼퓸','바이레도','//www.perfumegraphy.com/web/product/medium/202211/4dcc9d6b76924949bf0ee3093339cacd.jpg','//www.perfumegraphy.com/web/product/medium/202211/4dcc9d6b76924949bf0ee3093339cacd.jpg',298000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2190','세르주루텐 르 파티시프 빠세 오 드 퍼퓸 50ml','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/7506375767db9576171ed21396c40d2b.jpg','//www.perfumegraphy.com/web/product/medium/202108/7506375767db9576171ed21396c40d2b.jpg',174500,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2184','세르주루텐 밥뗌므 뒤 퍼 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/2830e3e9acbf0ad09b987464f58a94fa.jpg','//www.perfumegraphy.com/web/product/medium/202108/2830e3e9acbf0ad09b987464f58a94fa.jpg',174500,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1922','퍼퓸 드 말리 레이튼 75/125ml','퍼퓸','//www.perfumegraphy.com/web/product/medium/202301/f3a5b464eefe4f24ec234312cb0cd160.jpg','//www.perfumegraphy.com/web/product/medium/202301/f3a5b464eefe4f24ec234312cb0cd160.jpg',223000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1590','메종 프란시스 커정 바카라 루쥬 540 오 드 퍼퓸 70ml','메종','//www.perfumegraphy.com/web/product/medium/202212/1d1ca031873a2aca06098cdbeb47e650.jpg','//www.perfumegraphy.com/web/product/medium/202212/1d1ca031873a2aca06098cdbeb47e650.jpg',275000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1582','메종 마르지엘라 앳더바버','메종','//www.perfumegraphy.com/web/product/medium/202302/9c55ea1e6acd7d687e87dae534762f92.jpg','//www.perfumegraphy.com/web/product/medium/202302/9c55ea1e6acd7d687e87dae534762f92.jpg',145000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1521','돌체앤가바나 더원 포맨 오 드 뚜왈렛 30/50/100ml','돌체앤가바나','//www.perfumegraphy.com/web/product/medium/202301/24036a4de3d579bab80a3d33504343f4.jpg','//www.perfumegraphy.com/web/product/medium/202301/24036a4de3d579bab80a3d33504343f4.jpg',43800,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1502','펜할리곤스 앤디미온 꽁상뜨레 오 드 퍼퓸 100ml','펜할리곤스','//www.perfumegraphy.com/web/product/medium/202212/f4750b410b3f6841b7b19aaf4761363c.jpg','//www.perfumegraphy.com/web/product/medium/202212/f4750b410b3f6841b7b19aaf4761363c.jpg',209800,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1484','프라다 르옴므 오 드 뚜왈렛 50/100ml','프라다','//www.perfumegraphy.com/web/product/medium/202107/b8d906c402dcb326e76eb2c5fd6ba0e1.jpg','//www.perfumegraphy.com/web/product/medium/202107/b8d906c402dcb326e76eb2c5fd6ba0e1.jpg',94500,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1472','나르시소 로드리게즈 포 힘 블루 느와르 50/100ml','나르시소','//www.perfumegraphy.com/web/product/medium/202212/a61a64883656114cd758009adacf643f.jpg','//www.perfumegraphy.com/web/product/medium/202212/a61a64883656114cd758009adacf643f.jpg',44800,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1328','크리드 실버마운틴 워터','크리드','//www.perfumegraphy.com/web/product/medium/202211/2a7c0ac6755a72702619d1acbc0a51e3.jpeg','//www.perfumegraphy.com/web/product/medium/202211/2a7c0ac6755a72702619d1acbc0a51e3.jpeg',358000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2437','메모 오션 레더 오 드 퍼퓸 75ml','메모','//www.perfumegraphy.com/web/product/medium/202206/70a1e07f8c709feffaa3a3395534a6fa.jpg','//www.perfumegraphy.com/web/product/medium/202206/70a1e07f8c709feffaa3a3395534a6fa.jpg',263000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+--https://www.perfumegraphy.com/category/elegant/672/?page=4
+insert into PRODUCT values ('E2266','아쿠아 디 파르마 산달로 오 드 퍼퓸 100ml','아쿠아','//www.perfumegraphy.com/web/product/medium/202110/9e1a563736f105c9896e86b0c77629cb.jpg','//www.perfumegraphy.com/web/product/medium/202110/9e1a563736f105c9896e86b0c77629cb.jpg',190000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2243','세르주루텐 쉔느 (쉔) 오 드 퍼퓸 100ml','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/92c9f90f3470b37c29d5ebbbf77abf37.jpg','//www.perfumegraphy.com/web/product/medium/202108/92c9f90f3470b37c29d5ebbbf77abf37.jpg',395000,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E2128','디올 소바쥬 60ml','디올','//www.perfumegraphy.com/web/product/medium/202108/d44ca47723e776d3fd3621aa3b5aa315.jpg','//www.perfumegraphy.com/web/product/medium/202108/d44ca47723e776d3fd3621aa3b5aa315.jpg',90000,SYSDATE,'신촌점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1693','크리드 그린 아이리쉬 트위드 50ml','크리드','//www.perfumegraphy.com/web/product/medium/202211/5cc480226c624b342f447a07113a5bf6.jpg','//www.perfumegraphy.com/web/product/medium/202211/5cc480226c624b342f447a07113a5bf6.jpg',305000,SYSDATE,'본점',0,'화장품','향수/캔들','male|elegant', NULL);
+
+insert into PRODUCT values ('E1555','세르주루텐 라 비에르쥐 드 페 오 드 퍼퓸','세르주루텐','//www.perfumegraphy.com/web/product/medium/202108/6a01dc8a9b4e18e58d62ca3f10e3958c.jpg','//www.perfumegraphy.com/web/product/medium/202108/6a01dc8a9b4e18e58d62ca3f10e3958c.jpg',174500,SYSDATE,'판교점',0,'화장품','향수/캔들','male|elegant', NULL);
+
