@@ -12,16 +12,16 @@ These instructions will get you a copy of the project up and running on your loc
 1. 크롤링 환경 변수 생성
     1. `venv` 폴더를 생성한다.
     2. 가상 환경을 생성한다.
-    ```
-    // 가상환경 생성
-    python -m venv crawling
+        ```
+        // 가상환경 생성
+        python -m venv crawling
 
-    // 가상환경 활성화
-    call crawling/Scripts/activate
+        // 가상환경 활성화
+        call crawling/Scripts/activate
 
-    // 가상환경 종료
-    deactivate
-    ```
+        // 가상환경 종료
+        deactivate
+        ```
     3. 삭제할 시에는 폴더를 삭제한다.
 2. 크롤링 모듈 설치
     ```
@@ -35,7 +35,27 @@ These instructions will get you a copy of the project up and running on your loc
     pip install requests
     ```
 
-<!-- End with an example of getting some data out of the system or using it for a little demo -->
+#### 2. AI
+1. 환경 변수 생성
+    1. anaconda 설치 후, Environments를 생성 한다.
+    2. 가상 환경의 폴더에 있는 python으로 interpreter를 변경한다.
+    
+2. AI 모듈 설치
+    
+    가상 환경 접속 후, `requirements.txt` 를 통해 설치한다.
+    ```
+    pip install -r requirements.txt
+    ```
+3. API 실행
+    1. `app.py` 를 실행한다
+    2. `/predict` 주소로 POST request를 전송한다.
+        ```
+        // json 형식으로 전송한다.
+        {
+            "file" : "<file path>"
+        }
+        ```
+
 
 ## Deployment
 
