@@ -4,7 +4,7 @@ from tensorflow.keras.applications import resnet50
 import numpy as np
 
 """
- * StrylePredict.py
+ * StylePredict.py
  * @author SeyoungPark
  * @since 2023. 3. 14.
  *  <pre>
