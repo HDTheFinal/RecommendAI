@@ -177,3 +177,6 @@ pyrightconfig.json
 
 #가상환경
 venv/
+
+# 대용량 데이터셋
+styleDataset/

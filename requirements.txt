@@ -1,0 +1,10 @@
+tensorflow
+ipython
+numpy
+matplotlib
+pillow
+pandas
+scipy
+
+flask_restful
+flask_cors
