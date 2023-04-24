@@ -32,7 +32,6 @@ def createDirectory(directory):
         if not os.path.exists(directory):
             os.makedirs(directory)
         else:
-            print('존재O')
             shutil.rmtree(directory)
             os.mkdir(directory)
     except OSError:
@@ -48,19 +47,17 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def test_enter():
     return "enter"
 
-# TODO: 이미지 업로드
+# FEAT: 이미지 업로드
 @app.route("/uploadImg", methods=['POST'])
 def upload_image():
     if request.method =='POST':
         f = request.files['file']
-        print(f)
 
         save_dir ='C://dev64/upload/AItemp/' + getDate()
         print('dir: ' + save_dir)
         createDirectory(save_dir) #폴더 생성
 
         filePath = save_dir + '/' + secure_filename(f.filename)
-        print(filePath)
         f.save(filePath);
 
         return filePath, 200
@@ -76,9 +73,7 @@ def get_predict():
     response = {
         'file' : data['file'],
     }
-    print(response)
     result = predict_custom_resnet50(model, response['file'])
-    print(result)
 
     return result, 200
 
